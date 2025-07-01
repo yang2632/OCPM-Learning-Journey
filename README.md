@@ -15,6 +15,7 @@ Learning Plan
 This learning journey follows the guidance provided by my supervisor, structured in the following phases:
 
 Phase 1: Foundational Knowledge
+
 [ ] Read the OCEL 2.0 standard specification.
 
 [ ] Explore the ecosystem of OCPM tools (e.g., PM4Py, OCPA).   
@@ -22,6 +23,7 @@ Phase 1: Foundational Knowledge
 [ ] Study the fundamentals of PQL (Process Query Language).
 
 Phase 2: Core Paper Review
+
 [ ] van der Aalst, W. M. (2019). Object-centric process mining: dealing with divergence and convergence in event data.   
 
 [ ] van der Aalst, W. M., & Berti, A. (2020). Discovering object-centric petri nets.   
@@ -29,6 +31,7 @@ Phase 2: Core Paper Review
 [ ] Liss, L., Mensing, C., & van der Aalst, W. M. (2025). Object-Centric Causal Nets.   
 
 Phase 3: Hands-on Implementation
+
 [ ] Replicate core concepts and algorithms from the papers in Jupyter Notebooks.
 
 [ ] Perform a full OCPM analysis on the related dataset.   
