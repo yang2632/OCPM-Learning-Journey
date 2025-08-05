@@ -12,7 +12,28 @@ To conduct end-to-end analysis on real-world datasets and develop a well-founded
 Current Progress (As of Early August 2025)
 Core Papers: Have completed reading "Object-Centric Process Mining: Dealing With Divergence and Convergence in Event Data" and the "OCEL (Object-Centric Event Log) 2.0 Specification".   
 
-Online Coursework: To supplement my learning, I have enrolled in the RWTHx edX course on OCPM, with a focus on completing the modules up to Week 2: Process Models.
+Online Coursework: To supplement my learning, I have enrolled in the RWTHx edX course on OCPM, and focus on completing the modules up to Week 2: Process Models.
+Progress:
+
+[x] Week 1: Introduction to Process Mining, Completed section (Completed on 25/07)
+
+[x] Week 2: Process Models, Incomplete section (Completed on 02/08)
+
+[x] Week 3: Comparing Process Models, Incomplete section (Completed on 05/08)
+
+[ ] Week 4: Process Discovery 1, Incomplete section
+
+[ ] Week 5: Process Discovery 2, Incomplete section
+
+[ ] Week 6: Conformance Checking, Incomplete section
+
+[ ] Week 7: Beyond Control Flow, Incomplete section
+
+[ ] Week 8: Link to Machine Learning, Incomplete section
+
+[ ] Week 9: Outlook and Closure, Incomplete section
+
+[ ] Final Exam
 
 Hands-on Practice: I am actively applying the concepts learned by exploring and testing datasets on the Celonis platform.
 
