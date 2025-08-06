@@ -107,6 +107,3 @@ Meaning: Following the principle of Occam's Razor, if two models explain the dat
 
 My Key Takeaway
 These four dimensions are the fundamental criteria for evaluating any process discovery algorithm. When we later discover OCPM models, we will need to assess their quality using these same principles. The goal is to find an OCPM model that has high fitness and precision, generalizes well, and remains as simple as possible.
-
-
-Sources and related content
